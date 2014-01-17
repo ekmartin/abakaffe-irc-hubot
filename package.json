@@ -1,0 +1,30 @@
+{
+  "name": "Abakaffe",
+  "version": "1.0.0",
+  "author": "Ek",
+  "keywords": [
+    "github",
+    "hubot",
+    "kaffe"
+  ],
+  "description": "Returnerer info om kaffetrakteren på Abakus-kontoret. ",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/github/hubot/raw/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/github/hubot.git"
+  },
+  "dependencies": {
+    "hubot": ">= 2.6.0 < 3.0.0",
+    "hubot-irc": "~0.1.19",
+    "moment": ">= 2.5.0"
+  },
+  "engines": {
+    "node": ">= 0.8.x",
+    "npm": ">= 1.1.x"
+  }
+}
